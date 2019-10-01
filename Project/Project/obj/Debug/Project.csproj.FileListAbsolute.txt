@@ -1,0 +1,2 @@
+H:\Documents\VisStu\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+H:\Documents\VisStu\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
